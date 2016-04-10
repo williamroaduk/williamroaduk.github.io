@@ -1,0 +1,14 @@
+# Site settings
+title: William Road
+tag_text: William Road
+description: A Website for William Road Residents
+url: "http://williamroad.uk"
+baseurl: ""
+
+exclude: ["README.md"]
+
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
